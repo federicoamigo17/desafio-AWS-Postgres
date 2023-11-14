@@ -1,9 +1,10 @@
 import boto3
 import os
 
-# Para el desafio lo que hice fue guardar los SECRETS que me dieron como variable de entorno, actualmente subi los cvs a un bucket en s3
 # Esto esta comentado en detalle en el jupyter
 
+
+# Para el desafio lo que hice fue guardar los SECRETS que me dieron como variable de entorno, actualmente subi los cvs a un bucket en s3
 KEY = os.environ.get('XXX')
 SECRET = os.environ.get('XXX')
 
