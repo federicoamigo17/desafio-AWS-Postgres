@@ -1,0 +1,4 @@
+name: proyecto
+channels:
+  - defaults
+prefix: /home/federicoa/anaconda3/envs/proyecto
