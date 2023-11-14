@@ -7,6 +7,8 @@ El desafio ahora mismo esta incompleto.
 
 - Luego tendria que continuar con las implementaciones futuras.
 
+- Despues de consultar a colegas decidi implementar un ELT en vez de ETL ya que seria mas facil realizar la limpieza de los datos desde SQL porque tengo mas experiencia
+
 # Implementaciones futuras:
  - Revisar la limpieza de los datos, hay muchos datos nulos
 
