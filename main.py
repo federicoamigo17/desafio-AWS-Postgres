@@ -1,5 +1,7 @@
 import boto3
 import os
+import postgresql
+
 
 # Esto esta comentado en detalle en el jupyter
 
